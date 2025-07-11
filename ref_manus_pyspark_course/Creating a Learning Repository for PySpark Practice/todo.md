@@ -1,0 +1,8 @@
+- [x] Analyze requirements and create project structure
+- [x] Set up core PySpark configuration and utilities
+- [x] Create sample datasets and data generation scripts
+- [x] Develop Bronze layer examples (data ingestion)
+- [x] Develop Silver layer examples (data transformation)
+- [x] Develop Gold layer examples (data aggregation)
+- [x] Create practice exercises and learning materials
+- [ ] Package and deliver the complete repository
