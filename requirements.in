@@ -1,3 +1,5 @@
 ipykernel
 nbformat
 python-dotenv
+pyspark
+pandas
