@@ -2,7 +2,7 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import sum, col
 from conf.spark_session_config import get_spark_session
 
-def aggregate_sales_data(spark: SparkSession, input_path="../data/silver/sales", output_path="../data/gold/sales_summary"):
+def aggregate_sales_data(spark: SparkSession, input_path="data/silver/sales", output_path="data/gold/sales_summary"):
     """
     Reads sales data from Silver layer, aggregates it, and writes to Gold layer.
     """
@@ -22,4 +22,3 @@ if __name__ == "__main__":
     spark = get_spark_session(app_name="GoldLayerAggregation")
     aggregate_sales_data(spark)
     spark.stop()
-

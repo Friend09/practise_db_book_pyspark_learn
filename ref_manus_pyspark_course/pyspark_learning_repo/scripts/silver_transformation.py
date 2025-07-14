@@ -2,7 +2,7 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, current_timestamp
 from conf.spark_session_config import get_spark_session
 
-def transform_sales_data(spark: SparkSession, input_path="../data/bronze/sales", output_path="../data/silver/sales"):
+def transform_sales_data(spark: SparkSession, input_path="data/bronze/sales", output_path="data/silver/sales"):
     """
     Reads sales data from Bronze layer, transforms it, and writes to Silver layer.
     """
@@ -21,4 +21,3 @@ if __name__ == "__main__":
     spark = get_spark_session(app_name="SilverLayerTransformation")
     transform_sales_data(spark)
     spark.stop()
-

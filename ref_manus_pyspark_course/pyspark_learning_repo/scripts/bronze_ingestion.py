@@ -1,7 +1,7 @@
 from pyspark.sql import SparkSession
 from conf.spark_session_config import get_spark_session
 
-def ingest_raw_sales_data(spark: SparkSession, input_path="../data/raw/sales_data.csv", output_path="../data/bronze/sales"):
+def ingest_raw_sales_data(spark: SparkSession, input_path="data/raw/sales_data.csv", output_path="data/bronze/sales"):
     """
     Reads raw sales data from CSV and writes it to a Delta table in the Bronze layer.
     """
@@ -16,4 +16,3 @@ if __name__ == "__main__":
     spark = get_spark_session(app_name="BronzeLayerIngestion")
     ingest_raw_sales_data(spark)
     spark.stop()
-
