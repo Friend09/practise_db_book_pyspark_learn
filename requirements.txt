@@ -18,6 +18,8 @@ executing==2.2.0
     # via stack-data
 fastjsonschema==2.21.1
     # via nbformat
+findspark==2.0.1
+    # via -r requirements.in
 ipykernel==6.29.5
     # via -r requirements.in
 ipython==9.4.0

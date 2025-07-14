@@ -1,0 +1,1001 @@
+transaction_id,product_name,customer_name,city,quantity,price,transaction_date
+1,Headphones,Customer_11,Phoenix,4,333.86,2024-02-23
+2,Headphones,Customer_28,Phoenix,4,411.97,2024-12-02
+3,Laptop,Customer_5,Phoenix,4,341.6,2024-09-16
+4,Monitor,Customer_39,Phoenix,3,247.17,2024-12-21
+5,Mouse,Customer_28,Los Angeles,3,11.75,2024-06-27
+6,Mouse,Customer_46,New York,2,344.34,2024-03-04
+7,Webcam,Customer_25,Los Angeles,3,336.82,2024-06-22
+8,Keyboard,Customer_18,New York,4,928.6,2024-09-06
+9,Keyboard,Customer_13,Chicago,3,805.02,2024-12-09
+10,Mouse,Customer_49,Los Angeles,1,388.65,2024-10-19
+11,Keyboard,Customer_42,New York,3,503.55,2024-11-24
+12,Monitor,Customer_35,Chicago,2,515.73,2024-11-27
+13,Headphones,Customer_41,Houston,4,815.47,2024-11-25
+14,Monitor,Customer_7,Phoenix,2,489.71,2024-11-11
+15,Headphones,Customer_35,Houston,3,90.1,2024-06-03
+16,Headphones,Customer_27,New York,2,931.64,2024-01-25
+17,Headphones,Customer_31,Chicago,1,99.98,2024-10-13
+18,Monitor,Customer_13,Phoenix,3,584.1,2024-05-16
+19,Laptop,Customer_36,Phoenix,1,991.07,2024-08-26
+20,Monitor,Customer_18,Phoenix,2,344.63,2024-08-02
+21,Monitor,Customer_48,New York,3,119.35,2024-10-21
+22,Headphones,Customer_19,Phoenix,4,544.46,2024-07-24
+23,Keyboard,Customer_17,Chicago,2,491.13,2024-08-24
+24,Headphones,Customer_44,Chicago,3,637.27,2024-04-22
+25,Mouse,Customer_44,Houston,4,21.39,2024-09-26
+26,Laptop,Customer_49,Chicago,4,371.37,2024-02-02
+27,Keyboard,Customer_29,Houston,1,660.9,2024-11-13
+28,Keyboard,Customer_32,Phoenix,1,543.99,2024-11-17
+29,Monitor,Customer_45,Houston,4,735.99,2024-01-13
+30,Keyboard,Customer_22,Houston,2,978.72,2024-12-11
+31,Mouse,Customer_28,Houston,1,429.41,2024-01-16
+32,Keyboard,Customer_21,Los Angeles,4,288.97,2024-12-31
+33,Monitor,Customer_5,Phoenix,1,647.62,2024-11-09
+34,Laptop,Customer_49,Los Angeles,2,141.55,2024-12-21
+35,Webcam,Customer_1,Phoenix,1,93.6,2024-12-01
+36,Mouse,Customer_1,Los Angeles,2,234.29,2024-02-12
+37,Headphones,Customer_11,Houston,1,757.34,2024-10-30
+38,Webcam,Customer_41,New York,4,593.89,2024-11-25
+39,Headphones,Customer_27,Los Angeles,2,857.64,2024-06-06
+40,Headphones,Customer_8,Phoenix,2,53.23,2024-03-06
+41,Webcam,Customer_48,New York,4,349.41,2024-08-08
+42,Headphones,Customer_18,Houston,4,599.68,2024-11-07
+43,Headphones,Customer_20,Houston,2,886.87,2024-01-19
+44,Laptop,Customer_21,Phoenix,4,123.28,2024-06-28
+45,Monitor,Customer_45,Chicago,1,211.97,2024-01-12
+46,Keyboard,Customer_4,Los Angeles,1,595.11,2024-12-09
+47,Webcam,Customer_37,Chicago,1,975.15,2024-02-05
+48,Headphones,Customer_27,Phoenix,2,351.85,2024-03-22
+49,Keyboard,Customer_45,Los Angeles,1,483.33,2024-11-10
+50,Laptop,Customer_19,New York,3,187.45,2024-11-02
+51,Webcam,Customer_7,Los Angeles,3,497.93,2024-10-24
+52,Laptop,Customer_12,Chicago,3,960.54,2024-08-08
+53,Monitor,Customer_7,Houston,4,449.36,2024-02-03
+54,Laptop,Customer_26,Houston,3,695.73,2024-04-23
+55,Headphones,Customer_41,Chicago,4,985.11,2024-04-30
+56,Webcam,Customer_41,Houston,2,38.21,2024-11-05
+57,Monitor,Customer_6,Chicago,2,862.22,2024-10-06
+58,Monitor,Customer_41,Phoenix,3,725.06,2024-05-11
+59,Headphones,Customer_13,Phoenix,2,878.05,2024-10-25
+60,Laptop,Customer_8,Houston,4,161.72,2024-03-15
+61,Webcam,Customer_4,Houston,3,467.62,2024-06-05
+62,Monitor,Customer_11,Houston,3,981.7,2024-06-15
+63,Webcam,Customer_9,New York,2,56.97,2024-04-24
+64,Headphones,Customer_46,Los Angeles,4,89.74,2024-02-13
+65,Laptop,Customer_45,New York,3,925.29,2024-12-01
+66,Mouse,Customer_1,Chicago,2,316.6,2024-10-31
+67,Webcam,Customer_17,Houston,3,651.34,2024-04-15
+68,Webcam,Customer_15,Houston,2,890.52,2024-03-27
+69,Laptop,Customer_47,Phoenix,4,864.89,2024-01-11
+70,Laptop,Customer_3,Phoenix,1,219.87,2024-09-05
+71,Laptop,Customer_13,Houston,1,16.02,2024-11-03
+72,Mouse,Customer_46,Chicago,4,450.14,2024-12-24
+73,Keyboard,Customer_6,Phoenix,1,351.48,2024-03-19
+74,Webcam,Customer_9,Los Angeles,1,270.79,2024-11-16
+75,Monitor,Customer_11,Los Angeles,1,716.63,2024-12-31
+76,Webcam,Customer_6,New York,4,450.12,2024-02-17
+77,Monitor,Customer_28,Los Angeles,1,811.26,2024-09-01
+78,Keyboard,Customer_3,Los Angeles,2,126.89,2024-11-18
+79,Monitor,Customer_32,Phoenix,2,24.37,2024-03-02
+80,Laptop,Customer_50,Phoenix,4,312.39,2024-09-02
+81,Monitor,Customer_25,Chicago,4,309.06,2024-08-26
+82,Laptop,Customer_7,Houston,3,543.55,2024-02-17
+83,Monitor,Customer_33,New York,1,777.88,2024-10-09
+84,Keyboard,Customer_33,Los Angeles,3,754.36,2024-04-22
+85,Monitor,Customer_23,Chicago,3,119.22,2024-08-05
+86,Headphones,Customer_32,Phoenix,2,815.97,2024-12-30
+87,Mouse,Customer_43,Chicago,4,494.71,2024-12-31
+88,Keyboard,Customer_38,Los Angeles,2,571.93,2024-03-03
+89,Laptop,Customer_29,Chicago,4,106.54,2024-09-18
+90,Monitor,Customer_31,Phoenix,2,683.9,2024-06-28
+91,Webcam,Customer_12,Houston,3,673.93,2024-03-22
+92,Keyboard,Customer_21,New York,2,810.67,2024-01-16
+93,Headphones,Customer_17,Los Angeles,3,957.23,2024-05-06
+94,Keyboard,Customer_14,New York,1,638.36,2024-09-01
+95,Keyboard,Customer_31,New York,1,862.38,2024-09-24
+96,Monitor,Customer_10,Phoenix,1,40.4,2024-01-31
+97,Webcam,Customer_24,Los Angeles,1,760.98,2024-04-09
+98,Webcam,Customer_41,Phoenix,1,456.45,2024-06-12
+99,Webcam,Customer_22,Los Angeles,1,646.73,2024-04-10
+100,Monitor,Customer_7,Chicago,4,129.16,2024-01-20
+101,Keyboard,Customer_22,Chicago,1,830.06,2024-12-07
+102,Monitor,Customer_5,Chicago,1,695.46,2024-03-26
+103,Laptop,Customer_48,Los Angeles,2,816.84,2024-09-08
+104,Mouse,Customer_6,New York,1,876.22,2024-07-02
+105,Keyboard,Customer_43,Houston,2,842.44,2024-09-16
+106,Mouse,Customer_32,New York,1,56.92,2024-11-17
+107,Keyboard,Customer_32,New York,4,793.26,2024-01-17
+108,Keyboard,Customer_7,Chicago,3,236.26,2024-01-11
+109,Webcam,Customer_10,Houston,2,932.59,2024-05-30
+110,Monitor,Customer_48,Phoenix,3,569.34,2024-10-11
+111,Headphones,Customer_39,Los Angeles,3,745.5,2024-12-27
+112,Webcam,Customer_34,Phoenix,4,50.33,2024-07-05
+113,Laptop,Customer_34,Chicago,4,375.29,2024-09-22
+114,Mouse,Customer_30,New York,4,86.0,2024-11-12
+115,Monitor,Customer_18,New York,1,642.68,2024-05-07
+116,Laptop,Customer_4,Phoenix,3,887.25,2024-11-22
+117,Keyboard,Customer_4,Chicago,3,664.49,2024-02-29
+118,Laptop,Customer_39,Chicago,4,568.46,2024-12-25
+119,Headphones,Customer_40,Phoenix,1,717.59,2024-10-04
+120,Keyboard,Customer_31,Los Angeles,4,537.92,2024-09-12
+121,Headphones,Customer_38,Houston,3,239.53,2024-11-13
+122,Keyboard,Customer_17,Los Angeles,4,63.75,2024-01-02
+123,Monitor,Customer_2,Los Angeles,1,31.2,2024-05-22
+124,Headphones,Customer_34,New York,2,995.49,2024-12-07
+125,Laptop,Customer_8,New York,1,364.45,2024-06-07
+126,Mouse,Customer_22,Los Angeles,3,852.94,2024-01-20
+127,Mouse,Customer_33,Chicago,2,797.67,2024-07-01
+128,Headphones,Customer_40,Chicago,1,597.07,2024-11-20
+129,Monitor,Customer_44,Phoenix,1,395.84,2024-01-06
+130,Headphones,Customer_40,Houston,3,855.39,2024-02-05
+131,Webcam,Customer_18,New York,4,227.63,2024-04-14
+132,Webcam,Customer_31,Los Angeles,3,339.88,2024-09-04
+133,Headphones,Customer_47,Los Angeles,2,735.4,2024-08-19
+134,Monitor,Customer_37,New York,4,274.3,2024-10-20
+135,Keyboard,Customer_18,Los Angeles,1,707.26,2024-02-15
+136,Monitor,Customer_37,Chicago,2,441.54,2024-06-10
+137,Headphones,Customer_2,New York,4,461.25,2024-11-22
+138,Mouse,Customer_7,Los Angeles,2,234.49,2024-07-18
+139,Mouse,Customer_30,Houston,2,636.37,2024-08-07
+140,Keyboard,Customer_1,Phoenix,4,706.43,2024-06-30
+141,Monitor,Customer_42,New York,3,442.71,2024-06-23
+142,Laptop,Customer_19,Los Angeles,4,979.73,2024-01-28
+143,Keyboard,Customer_10,Los Angeles,4,260.99,2024-05-08
+144,Monitor,Customer_14,Los Angeles,3,986.35,2024-11-11
+145,Laptop,Customer_6,New York,4,532.72,2024-03-28
+146,Laptop,Customer_25,New York,2,504.35,2024-11-28
+147,Headphones,Customer_9,Houston,3,122.55,2024-10-15
+148,Headphones,Customer_46,Phoenix,3,259.11,2024-12-16
+149,Mouse,Customer_26,Los Angeles,3,821.71,2024-02-20
+150,Monitor,Customer_48,Chicago,1,349.05,2024-12-23
+151,Mouse,Customer_15,Phoenix,3,433.77,2024-07-26
+152,Headphones,Customer_12,Houston,1,615.06,2024-07-30
+153,Laptop,Customer_28,Houston,2,751.43,2024-08-26
+154,Monitor,Customer_27,Los Angeles,1,871.87,2024-09-24
+155,Webcam,Customer_20,New York,4,327.03,2024-02-17
+156,Mouse,Customer_43,Los Angeles,2,613.23,2024-08-08
+157,Keyboard,Customer_25,Phoenix,2,276.22,2024-10-27
+158,Monitor,Customer_5,Chicago,4,815.06,2024-01-16
+159,Headphones,Customer_12,Phoenix,3,47.25,2024-01-28
+160,Headphones,Customer_4,New York,1,357.62,2024-06-27
+161,Keyboard,Customer_34,Phoenix,4,271.62,2024-04-21
+162,Headphones,Customer_18,Houston,4,563.99,2024-12-11
+163,Mouse,Customer_45,Houston,2,134.09,2024-09-09
+164,Laptop,Customer_3,Los Angeles,4,433.45,2024-09-12
+165,Monitor,Customer_3,Los Angeles,4,671.68,2024-04-15
+166,Monitor,Customer_22,New York,1,448.75,2024-03-22
+167,Keyboard,Customer_22,Los Angeles,1,85.2,2024-09-07
+168,Headphones,Customer_17,Phoenix,1,736.67,2024-11-09
+169,Webcam,Customer_19,Los Angeles,3,525.07,2024-03-20
+170,Headphones,Customer_46,Chicago,4,282.52,2024-09-13
+171,Mouse,Customer_50,New York,3,890.55,2024-07-09
+172,Monitor,Customer_5,Houston,3,512.82,2024-11-29
+173,Keyboard,Customer_41,Los Angeles,3,351.53,2024-04-05
+174,Headphones,Customer_6,Los Angeles,4,626.67,2024-04-05
+175,Monitor,Customer_27,New York,3,300.9,2024-07-02
+176,Monitor,Customer_3,New York,2,737.92,2024-09-23
+177,Headphones,Customer_49,Los Angeles,1,918.14,2024-06-07
+178,Headphones,Customer_13,Los Angeles,3,676.16,2024-08-10
+179,Mouse,Customer_6,New York,1,948.52,2024-11-11
+180,Mouse,Customer_43,Chicago,1,946.2,2024-05-04
+181,Laptop,Customer_41,Chicago,4,915.36,2024-07-17
+182,Keyboard,Customer_48,New York,4,461.34,2024-06-02
+183,Headphones,Customer_26,Phoenix,3,746.06,2024-02-10
+184,Mouse,Customer_19,Los Angeles,2,305.47,2024-09-25
+185,Mouse,Customer_46,Houston,3,302.0,2024-02-04
+186,Keyboard,Customer_15,Houston,2,870.68,2024-03-29
+187,Webcam,Customer_42,Los Angeles,4,751.62,2024-05-19
+188,Headphones,Customer_50,Houston,3,496.87,2024-10-30
+189,Monitor,Customer_35,Phoenix,4,794.32,2024-03-12
+190,Mouse,Customer_29,Phoenix,2,445.22,2024-02-27
+191,Mouse,Customer_46,Chicago,1,462.49,2024-05-03
+192,Webcam,Customer_27,Los Angeles,3,307.3,2024-05-02
+193,Keyboard,Customer_42,Los Angeles,2,408.69,2024-02-02
+194,Laptop,Customer_41,Los Angeles,3,759.02,2024-04-26
+195,Keyboard,Customer_4,Houston,1,172.82,2024-07-12
+196,Headphones,Customer_11,Phoenix,3,404.23,2024-09-27
+197,Mouse,Customer_31,Los Angeles,3,260.4,2024-12-24
+198,Monitor,Customer_30,Chicago,3,250.16,2024-05-05
+199,Headphones,Customer_18,Chicago,4,193.43,2024-04-15
+200,Mouse,Customer_12,Houston,3,551.51,2024-11-13
+201,Monitor,Customer_18,Chicago,2,624.17,2024-06-15
+202,Headphones,Customer_11,Los Angeles,3,281.46,2024-01-30
+203,Laptop,Customer_24,Chicago,2,481.63,2024-11-09
+204,Monitor,Customer_21,Phoenix,4,319.75,2024-08-15
+205,Headphones,Customer_46,Los Angeles,3,297.47,2024-05-29
+206,Keyboard,Customer_22,Chicago,3,934.88,2024-12-30
+207,Monitor,Customer_44,Phoenix,4,315.53,2024-09-26
+208,Laptop,Customer_21,Houston,4,979.66,2024-08-14
+209,Laptop,Customer_20,Chicago,4,938.49,2024-05-28
+210,Monitor,Customer_18,Los Angeles,4,560.55,2024-10-28
+211,Keyboard,Customer_14,Chicago,4,124.01,2024-06-03
+212,Keyboard,Customer_25,Los Angeles,3,862.69,2024-08-27
+213,Laptop,Customer_11,Chicago,4,436.34,2024-05-13
+214,Keyboard,Customer_43,Phoenix,4,935.57,2024-10-30
+215,Webcam,Customer_18,Los Angeles,2,55.59,2024-07-26
+216,Mouse,Customer_23,Chicago,2,803.45,2024-10-04
+217,Keyboard,Customer_47,Phoenix,2,456.52,2024-11-04
+218,Keyboard,Customer_41,Los Angeles,4,82.32,2024-08-24
+219,Keyboard,Customer_42,Phoenix,1,754.85,2024-01-11
+220,Monitor,Customer_44,Phoenix,2,419.7,2024-11-27
+221,Headphones,Customer_30,Los Angeles,3,725.75,2024-11-15
+222,Webcam,Customer_13,Chicago,1,990.46,2024-04-09
+223,Keyboard,Customer_28,New York,3,529.33,2024-10-14
+224,Laptop,Customer_38,Phoenix,3,351.18,2024-10-04
+225,Webcam,Customer_6,New York,4,391.13,2024-08-07
+226,Laptop,Customer_8,New York,1,765.81,2024-10-26
+227,Keyboard,Customer_15,Chicago,3,882.18,2024-10-21
+228,Webcam,Customer_40,New York,4,368.81,2024-05-21
+229,Webcam,Customer_23,New York,2,545.91,2024-08-24
+230,Laptop,Customer_34,New York,4,509.85,2024-11-21
+231,Mouse,Customer_19,Los Angeles,3,228.47,2024-10-06
+232,Headphones,Customer_41,Chicago,3,666.31,2024-05-26
+233,Webcam,Customer_21,New York,3,266.92,2024-05-15
+234,Mouse,Customer_3,Phoenix,1,87.66,2024-06-27
+235,Keyboard,Customer_16,Houston,3,257.93,2024-10-21
+236,Webcam,Customer_21,Chicago,2,956.62,2024-05-03
+237,Laptop,Customer_14,Los Angeles,1,829.35,2024-01-07
+238,Webcam,Customer_15,Houston,4,777.25,2024-01-06
+239,Webcam,Customer_6,New York,1,513.35,2024-01-24
+240,Mouse,Customer_16,Los Angeles,1,976.34,2024-01-20
+241,Webcam,Customer_41,Phoenix,2,72.23,2024-03-01
+242,Webcam,Customer_24,New York,4,711.69,2024-05-07
+243,Webcam,Customer_31,Chicago,2,347.73,2024-07-02
+244,Monitor,Customer_7,New York,4,75.82,2024-05-09
+245,Mouse,Customer_8,Chicago,3,55.52,2024-01-11
+246,Laptop,Customer_39,Chicago,4,642.95,2024-09-06
+247,Laptop,Customer_11,Chicago,3,57.03,2024-08-05
+248,Webcam,Customer_26,Houston,1,698.07,2024-10-15
+249,Keyboard,Customer_28,Phoenix,1,688.24,2024-10-28
+250,Laptop,Customer_36,New York,4,200.68,2024-09-20
+251,Headphones,Customer_35,Houston,4,426.04,2024-03-26
+252,Laptop,Customer_37,Chicago,3,927.21,2024-03-13
+253,Mouse,Customer_6,Phoenix,2,918.76,2024-05-27
+254,Laptop,Customer_12,Chicago,1,263.19,2024-02-29
+255,Laptop,Customer_28,Chicago,1,812.21,2024-09-02
+256,Monitor,Customer_14,Los Angeles,4,42.17,2024-01-21
+257,Keyboard,Customer_10,Phoenix,4,99.42,2024-04-22
+258,Headphones,Customer_45,Houston,2,285.94,2024-04-05
+259,Monitor,Customer_14,Phoenix,2,850.3,2024-04-06
+260,Laptop,Customer_30,Houston,4,538.92,2024-08-02
+261,Monitor,Customer_22,Chicago,4,746.59,2024-02-07
+262,Keyboard,Customer_38,New York,1,624.55,2024-10-14
+263,Webcam,Customer_13,Los Angeles,3,563.6,2024-08-25
+264,Headphones,Customer_20,Houston,1,660.29,2024-11-17
+265,Monitor,Customer_35,Los Angeles,4,27.19,2024-06-07
+266,Monitor,Customer_50,Chicago,2,350.38,2024-08-21
+267,Monitor,Customer_19,Phoenix,2,26.49,2024-08-09
+268,Monitor,Customer_7,Chicago,4,227.25,2024-04-14
+269,Laptop,Customer_30,Phoenix,4,703.4,2024-01-03
+270,Laptop,Customer_5,Houston,3,306.66,2024-07-20
+271,Monitor,Customer_25,Houston,1,786.96,2024-11-04
+272,Monitor,Customer_15,Los Angeles,3,45.76,2024-02-12
+273,Monitor,Customer_42,Chicago,4,251.9,2024-10-04
+274,Headphones,Customer_35,Houston,4,155.46,2024-09-09
+275,Monitor,Customer_45,New York,2,268.11,2024-06-24
+276,Keyboard,Customer_22,Chicago,3,487.48,2024-05-15
+277,Webcam,Customer_26,New York,1,347.85,2024-12-01
+278,Headphones,Customer_12,Chicago,1,691.78,2024-03-26
+279,Monitor,Customer_49,Houston,1,711.24,2024-07-31
+280,Headphones,Customer_9,Phoenix,3,126.58,2024-05-19
+281,Headphones,Customer_48,Phoenix,1,327.05,2024-04-16
+282,Mouse,Customer_17,Los Angeles,2,152.78,2024-04-23
+283,Webcam,Customer_34,Los Angeles,1,270.64,2024-02-15
+284,Keyboard,Customer_32,New York,3,332.32,2024-12-20
+285,Webcam,Customer_14,Phoenix,1,795.63,2024-11-27
+286,Headphones,Customer_16,Houston,4,616.04,2024-12-11
+287,Keyboard,Customer_18,Los Angeles,4,371.0,2024-11-07
+288,Laptop,Customer_27,Phoenix,3,854.87,2024-11-09
+289,Webcam,Customer_11,Los Angeles,4,609.71,2024-06-30
+290,Laptop,Customer_24,New York,1,382.84,2024-08-13
+291,Laptop,Customer_2,Houston,3,585.47,2024-01-23
+292,Laptop,Customer_28,Chicago,4,440.86,2024-07-15
+293,Monitor,Customer_29,Phoenix,1,96.69,2024-04-23
+294,Headphones,Customer_3,Houston,2,851.34,2024-03-28
+295,Mouse,Customer_6,New York,1,559.87,2024-08-14
+296,Laptop,Customer_46,New York,2,97.95,2024-01-26
+297,Monitor,Customer_20,Phoenix,1,574.06,2024-10-24
+298,Keyboard,Customer_36,Los Angeles,3,835.02,2024-02-13
+299,Keyboard,Customer_20,New York,2,828.29,2024-08-24
+300,Monitor,Customer_40,Chicago,3,461.65,2024-03-17
+301,Keyboard,Customer_22,Houston,3,572.7,2024-09-21
+302,Webcam,Customer_24,New York,1,352.36,2024-01-22
+303,Monitor,Customer_31,Chicago,2,26.65,2024-12-21
+304,Mouse,Customer_26,New York,2,903.38,2024-02-19
+305,Headphones,Customer_24,Houston,2,907.53,2024-11-11
+306,Mouse,Customer_30,Chicago,3,142.3,2024-04-15
+307,Mouse,Customer_43,Phoenix,1,146.91,2024-08-15
+308,Monitor,Customer_12,New York,2,726.25,2024-03-13
+309,Mouse,Customer_15,Houston,2,938.91,2024-09-07
+310,Monitor,Customer_19,Chicago,2,651.6,2024-07-25
+311,Headphones,Customer_39,Los Angeles,1,799.71,2024-02-21
+312,Monitor,Customer_6,New York,3,24.05,2024-04-13
+313,Monitor,Customer_7,Houston,2,516.05,2024-03-30
+314,Laptop,Customer_32,Houston,1,406.17,2024-09-24
+315,Mouse,Customer_49,New York,4,533.83,2024-03-31
+316,Laptop,Customer_23,Los Angeles,2,918.4,2024-02-25
+317,Headphones,Customer_23,Chicago,3,261.56,2024-03-05
+318,Mouse,Customer_8,Los Angeles,2,929.69,2024-10-26
+319,Mouse,Customer_20,Houston,3,654.56,2024-04-27
+320,Monitor,Customer_31,Los Angeles,3,872.15,2024-01-16
+321,Monitor,Customer_10,Chicago,1,158.63,2024-11-14
+322,Laptop,Customer_14,New York,2,431.05,2024-04-13
+323,Headphones,Customer_43,New York,3,170.91,2024-05-08
+324,Laptop,Customer_34,Phoenix,2,914.56,2024-12-22
+325,Laptop,Customer_30,Los Angeles,1,72.22,2024-02-02
+326,Headphones,Customer_18,Chicago,4,865.78,2024-09-12
+327,Headphones,Customer_33,Houston,3,652.01,2024-07-01
+328,Webcam,Customer_42,Chicago,1,47.96,2024-12-25
+329,Mouse,Customer_6,New York,4,74.07,2024-10-29
+330,Webcam,Customer_15,Houston,2,532.8,2024-12-28
+331,Keyboard,Customer_11,Chicago,2,949.09,2024-11-02
+332,Monitor,Customer_47,New York,3,770.93,2024-06-27
+333,Monitor,Customer_27,Los Angeles,3,444.45,2024-12-17
+334,Headphones,Customer_14,Los Angeles,4,563.75,2024-09-02
+335,Monitor,Customer_6,Chicago,1,847.9,2024-05-28
+336,Mouse,Customer_27,Chicago,2,123.44,2024-05-13
+337,Headphones,Customer_4,Los Angeles,1,39.68,2024-03-05
+338,Mouse,Customer_18,Chicago,3,850.81,2024-03-21
+339,Keyboard,Customer_22,Houston,3,608.75,2024-03-29
+340,Laptop,Customer_43,New York,4,49.86,2024-05-20
+341,Webcam,Customer_10,Phoenix,3,92.52,2024-06-27
+342,Mouse,Customer_28,Los Angeles,3,851.61,2024-03-08
+343,Mouse,Customer_6,Chicago,2,552.11,2024-06-28
+344,Headphones,Customer_28,New York,3,341.56,2024-06-14
+345,Mouse,Customer_23,Chicago,1,963.75,2024-11-11
+346,Webcam,Customer_26,Houston,2,531.81,2024-07-03
+347,Keyboard,Customer_1,New York,4,213.79,2024-10-27
+348,Monitor,Customer_4,Houston,3,32.62,2024-08-15
+349,Monitor,Customer_10,Houston,4,969.88,2024-02-17
+350,Monitor,Customer_30,Los Angeles,4,594.5,2024-02-04
+351,Mouse,Customer_24,Chicago,1,46.82,2024-08-27
+352,Monitor,Customer_39,Phoenix,1,921.19,2024-02-14
+353,Webcam,Customer_41,Los Angeles,2,579.34,2024-08-10
+354,Mouse,Customer_21,Los Angeles,4,326.5,2024-11-18
+355,Mouse,Customer_12,Phoenix,4,91.53,2024-12-28
+356,Webcam,Customer_6,Houston,1,507.14,2024-12-30
+357,Headphones,Customer_18,Chicago,4,883.78,2024-12-16
+358,Monitor,Customer_5,Los Angeles,3,685.88,2024-06-17
+359,Laptop,Customer_2,Phoenix,4,628.1,2024-11-21
+360,Monitor,Customer_42,Houston,4,305.9,2024-12-01
+361,Monitor,Customer_35,Chicago,3,223.39,2024-08-11
+362,Mouse,Customer_36,Houston,4,365.61,2024-02-13
+363,Mouse,Customer_9,Chicago,4,717.05,2024-03-24
+364,Monitor,Customer_12,New York,1,336.62,2024-07-18
+365,Mouse,Customer_9,New York,3,959.15,2024-05-16
+366,Webcam,Customer_26,New York,4,241.39,2024-10-02
+367,Mouse,Customer_49,Los Angeles,1,786.13,2024-05-04
+368,Webcam,Customer_18,Chicago,1,966.09,2024-05-30
+369,Headphones,Customer_19,Chicago,2,419.18,2024-09-10
+370,Headphones,Customer_6,New York,4,479.38,2024-11-19
+371,Monitor,Customer_16,Houston,4,304.43,2024-12-09
+372,Webcam,Customer_30,Houston,1,711.41,2024-12-08
+373,Headphones,Customer_25,Houston,4,846.38,2024-09-06
+374,Laptop,Customer_24,Chicago,2,972.97,2024-01-05
+375,Keyboard,Customer_29,Chicago,1,493.58,2024-06-06
+376,Headphones,Customer_41,Phoenix,1,92.2,2024-09-03
+377,Webcam,Customer_16,Houston,4,908.73,2024-10-01
+378,Monitor,Customer_27,Houston,1,696.21,2024-04-05
+379,Laptop,Customer_29,Houston,2,199.44,2024-03-30
+380,Laptop,Customer_7,Houston,2,981.48,2024-08-01
+381,Webcam,Customer_11,Los Angeles,4,459.66,2024-02-11
+382,Mouse,Customer_26,Houston,1,551.75,2024-08-07
+383,Keyboard,Customer_11,New York,3,557.34,2024-02-29
+384,Webcam,Customer_3,Phoenix,3,264.88,2024-07-13
+385,Mouse,Customer_16,New York,2,714.54,2024-09-20
+386,Laptop,Customer_33,Chicago,3,282.07,2024-06-10
+387,Monitor,Customer_6,Los Angeles,4,907.61,2024-04-04
+388,Laptop,Customer_36,Phoenix,1,958.6,2024-02-20
+389,Laptop,Customer_13,Chicago,3,112.25,2024-01-10
+390,Keyboard,Customer_22,New York,3,803.62,2024-03-31
+391,Webcam,Customer_27,Houston,1,717.75,2024-05-11
+392,Webcam,Customer_49,Los Angeles,1,169.06,2024-08-31
+393,Headphones,Customer_21,Houston,2,271.66,2024-11-02
+394,Mouse,Customer_47,Phoenix,2,787.83,2024-05-27
+395,Webcam,Customer_30,Phoenix,1,847.19,2024-12-11
+396,Laptop,Customer_30,Los Angeles,2,483.43,2024-06-05
+397,Headphones,Customer_4,Chicago,3,767.09,2024-04-30
+398,Headphones,Customer_30,Phoenix,3,714.13,2024-04-30
+399,Monitor,Customer_48,Los Angeles,3,839.42,2024-09-10
+400,Webcam,Customer_39,Los Angeles,2,975.2,2024-11-12
+401,Keyboard,Customer_11,New York,1,310.35,2024-05-06
+402,Webcam,Customer_5,Chicago,3,31.39,2024-04-11
+403,Monitor,Customer_5,Phoenix,4,692.1,2024-06-17
+404,Webcam,Customer_29,Houston,4,391.62,2024-12-19
+405,Headphones,Customer_30,Houston,3,595.28,2024-05-14
+406,Mouse,Customer_10,Houston,2,546.45,2024-09-02
+407,Keyboard,Customer_42,Chicago,4,959.98,2024-01-20
+408,Webcam,Customer_19,New York,2,507.1,2024-08-16
+409,Monitor,Customer_33,Houston,3,756.49,2024-04-23
+410,Webcam,Customer_10,Chicago,2,835.68,2024-04-26
+411,Keyboard,Customer_36,Phoenix,4,702.22,2024-05-06
+412,Keyboard,Customer_39,Los Angeles,2,611.07,2024-09-13
+413,Webcam,Customer_28,Phoenix,1,876.37,2024-11-02
+414,Webcam,Customer_32,Los Angeles,3,471.89,2024-11-25
+415,Webcam,Customer_18,Los Angeles,1,417.39,2024-04-22
+416,Mouse,Customer_46,Phoenix,1,479.88,2024-12-14
+417,Keyboard,Customer_10,Los Angeles,4,65.13,2024-10-21
+418,Headphones,Customer_20,Los Angeles,4,689.87,2024-03-08
+419,Keyboard,Customer_14,Chicago,1,931.13,2024-07-21
+420,Headphones,Customer_11,New York,3,839.5,2024-11-27
+421,Webcam,Customer_9,Chicago,3,45.36,2024-03-03
+422,Keyboard,Customer_45,Phoenix,4,572.18,2024-03-06
+423,Laptop,Customer_40,New York,2,143.35,2024-06-29
+424,Monitor,Customer_44,Phoenix,2,287.95,2024-11-26
+425,Mouse,Customer_10,Phoenix,1,672.16,2024-01-17
+426,Keyboard,Customer_49,Chicago,3,450.35,2024-02-21
+427,Mouse,Customer_48,Chicago,3,591.12,2024-02-12
+428,Monitor,Customer_31,Houston,4,798.34,2024-11-15
+429,Webcam,Customer_31,New York,2,758.22,2024-12-28
+430,Mouse,Customer_37,Chicago,2,284.64,2024-07-10
+431,Keyboard,Customer_43,Los Angeles,1,587.22,2024-07-25
+432,Webcam,Customer_18,New York,2,862.8,2024-10-05
+433,Headphones,Customer_19,Phoenix,4,77.97,2024-11-19
+434,Laptop,Customer_25,Chicago,1,441.84,2024-05-02
+435,Laptop,Customer_22,Phoenix,2,566.35,2024-12-11
+436,Headphones,Customer_49,Houston,1,731.18,2024-02-13
+437,Headphones,Customer_7,New York,4,422.45,2024-10-06
+438,Monitor,Customer_2,Los Angeles,2,784.6,2024-06-17
+439,Monitor,Customer_39,Phoenix,2,390.39,2024-06-29
+440,Webcam,Customer_14,Los Angeles,3,780.5,2024-05-09
+441,Keyboard,Customer_32,Houston,4,104.83,2024-09-02
+442,Keyboard,Customer_15,Chicago,3,204.2,2024-08-22
+443,Mouse,Customer_27,Los Angeles,2,860.96,2024-10-26
+444,Webcam,Customer_16,Chicago,1,405.01,2024-09-22
+445,Keyboard,Customer_46,Chicago,1,608.58,2024-07-07
+446,Mouse,Customer_11,Houston,2,376.27,2024-05-22
+447,Headphones,Customer_3,New York,2,545.2,2024-09-25
+448,Monitor,Customer_23,New York,1,858.85,2024-02-27
+449,Laptop,Customer_23,Houston,3,341.46,2024-09-15
+450,Keyboard,Customer_21,Los Angeles,3,229.38,2024-12-03
+451,Monitor,Customer_6,Phoenix,3,324.42,2024-02-14
+452,Headphones,Customer_34,Los Angeles,1,870.37,2024-06-04
+453,Headphones,Customer_12,Chicago,4,964.71,2024-03-23
+454,Keyboard,Customer_49,New York,3,220.58,2024-12-10
+455,Monitor,Customer_5,Chicago,3,741.91,2024-06-30
+456,Headphones,Customer_45,Houston,1,663.76,2024-09-30
+457,Mouse,Customer_24,Houston,3,643.77,2024-08-08
+458,Webcam,Customer_17,Phoenix,2,913.44,2024-08-27
+459,Monitor,Customer_31,Phoenix,3,626.58,2024-05-20
+460,Monitor,Customer_35,New York,2,340.9,2024-11-21
+461,Mouse,Customer_46,Phoenix,4,690.57,2024-05-01
+462,Keyboard,Customer_48,Chicago,4,725.64,2024-06-09
+463,Laptop,Customer_8,Los Angeles,3,40.72,2024-05-31
+464,Laptop,Customer_7,Phoenix,4,277.35,2024-06-02
+465,Headphones,Customer_39,Houston,1,105.74,2024-04-20
+466,Keyboard,Customer_36,New York,2,323.32,2024-06-28
+467,Webcam,Customer_36,Chicago,4,299.63,2024-04-26
+468,Monitor,Customer_46,Houston,3,365.69,2024-06-19
+469,Keyboard,Customer_12,Chicago,1,235.16,2024-10-11
+470,Monitor,Customer_14,New York,1,880.6,2024-10-12
+471,Monitor,Customer_27,Houston,2,96.82,2024-02-14
+472,Keyboard,Customer_24,Houston,4,700.24,2024-01-12
+473,Mouse,Customer_43,Phoenix,3,727.47,2024-12-17
+474,Mouse,Customer_50,Los Angeles,3,292.75,2024-09-15
+475,Webcam,Customer_50,New York,4,796.58,2024-09-23
+476,Mouse,Customer_9,Los Angeles,2,876.6,2024-12-06
+477,Laptop,Customer_21,Chicago,2,303.21,2024-11-29
+478,Webcam,Customer_10,Los Angeles,4,890.44,2024-08-13
+479,Monitor,Customer_42,Houston,1,171.21,2024-02-28
+480,Monitor,Customer_30,Los Angeles,4,795.88,2024-11-26
+481,Keyboard,Customer_6,New York,4,86.72,2024-08-14
+482,Monitor,Customer_50,New York,3,506.17,2024-05-09
+483,Webcam,Customer_47,Houston,1,528.65,2024-06-23
+484,Webcam,Customer_6,Houston,1,754.91,2024-01-30
+485,Keyboard,Customer_37,Phoenix,1,350.63,2024-07-17
+486,Monitor,Customer_16,Los Angeles,1,141.7,2024-12-29
+487,Laptop,Customer_38,Houston,3,951.54,2024-05-21
+488,Keyboard,Customer_46,Chicago,2,831.09,2024-05-22
+489,Keyboard,Customer_32,New York,1,412.7,2024-11-05
+490,Mouse,Customer_8,Chicago,2,577.56,2024-02-22
+491,Monitor,Customer_48,Houston,4,177.22,2024-10-07
+492,Monitor,Customer_4,Houston,4,216.52,2024-04-09
+493,Webcam,Customer_22,Houston,2,613.01,2024-04-09
+494,Headphones,Customer_10,Chicago,3,369.97,2024-08-02
+495,Monitor,Customer_25,New York,2,953.66,2024-10-10
+496,Keyboard,Customer_5,Houston,4,389.18,2024-03-31
+497,Webcam,Customer_13,New York,4,13.33,2024-10-15
+498,Monitor,Customer_37,Chicago,4,463.37,2024-12-01
+499,Webcam,Customer_49,New York,2,995.78,2024-05-31
+500,Mouse,Customer_34,Los Angeles,2,474.25,2024-01-14
+501,Keyboard,Customer_15,New York,1,615.8,2024-09-27
+502,Mouse,Customer_6,Chicago,3,688.72,2024-02-23
+503,Monitor,Customer_29,Houston,4,858.06,2024-04-30
+504,Keyboard,Customer_24,Los Angeles,2,645.94,2024-04-05
+505,Headphones,Customer_18,Phoenix,1,790.02,2024-05-09
+506,Keyboard,Customer_44,New York,2,594.86,2024-12-31
+507,Headphones,Customer_38,New York,1,564.12,2024-01-13
+508,Webcam,Customer_10,Phoenix,1,892.16,2024-02-08
+509,Monitor,Customer_38,Chicago,2,618.25,2024-06-29
+510,Webcam,Customer_17,New York,1,67.12,2024-06-30
+511,Keyboard,Customer_18,Los Angeles,4,290.58,2024-03-25
+512,Keyboard,Customer_33,Phoenix,1,121.86,2024-08-24
+513,Laptop,Customer_15,Chicago,1,235.13,2024-09-29
+514,Mouse,Customer_33,Los Angeles,1,764.14,2024-04-23
+515,Laptop,Customer_14,Phoenix,3,100.41,2024-11-20
+516,Monitor,Customer_23,New York,4,910.86,2024-03-21
+517,Mouse,Customer_46,Chicago,2,23.64,2024-02-13
+518,Headphones,Customer_27,New York,4,705.68,2024-04-29
+519,Laptop,Customer_1,Los Angeles,2,444.49,2024-08-05
+520,Keyboard,Customer_35,Phoenix,2,994.55,2024-09-25
+521,Mouse,Customer_13,Los Angeles,2,233.69,2024-11-15
+522,Headphones,Customer_13,Phoenix,4,418.99,2024-10-14
+523,Laptop,Customer_11,New York,1,689.26,2024-12-27
+524,Keyboard,Customer_18,New York,2,642.2,2024-12-21
+525,Headphones,Customer_50,Los Angeles,2,810.25,2024-03-27
+526,Webcam,Customer_36,Phoenix,4,145.15,2024-06-25
+527,Laptop,Customer_25,Phoenix,3,830.29,2024-01-22
+528,Headphones,Customer_44,Chicago,2,159.04,2024-04-19
+529,Webcam,Customer_7,Phoenix,3,66.75,2024-11-28
+530,Keyboard,Customer_42,Houston,2,65.5,2024-11-11
+531,Mouse,Customer_15,Chicago,2,160.68,2024-03-24
+532,Mouse,Customer_25,Houston,3,150.89,2024-09-22
+533,Keyboard,Customer_8,Houston,3,862.64,2024-05-28
+534,Headphones,Customer_15,Houston,3,407.53,2024-07-23
+535,Keyboard,Customer_46,Chicago,1,565.68,2024-12-21
+536,Headphones,Customer_8,Houston,2,592.45,2024-12-01
+537,Laptop,Customer_6,Phoenix,1,846.18,2024-02-02
+538,Headphones,Customer_35,Houston,3,834.86,2024-07-18
+539,Mouse,Customer_47,New York,3,197.48,2024-03-29
+540,Keyboard,Customer_11,Houston,4,631.09,2024-12-28
+541,Webcam,Customer_43,Phoenix,3,279.42,2024-10-18
+542,Webcam,Customer_40,Chicago,2,77.23,2024-03-13
+543,Headphones,Customer_17,Houston,1,85.31,2024-10-24
+544,Monitor,Customer_17,Phoenix,3,291.98,2024-01-19
+545,Laptop,Customer_28,New York,4,701.86,2024-06-17
+546,Monitor,Customer_33,Phoenix,4,731.61,2024-11-04
+547,Webcam,Customer_26,Chicago,2,115.14,2024-02-24
+548,Headphones,Customer_30,Chicago,1,612.47,2024-08-07
+549,Laptop,Customer_26,New York,1,470.09,2024-08-07
+550,Keyboard,Customer_47,Phoenix,1,834.53,2024-04-29
+551,Headphones,Customer_44,New York,3,833.2,2024-08-12
+552,Headphones,Customer_45,New York,1,186.7,2024-03-22
+553,Monitor,Customer_13,Houston,1,123.27,2024-08-08
+554,Keyboard,Customer_31,Chicago,1,928.18,2024-06-07
+555,Laptop,Customer_35,Houston,3,298.08,2024-11-30
+556,Headphones,Customer_28,Phoenix,3,129.72,2024-07-05
+557,Keyboard,Customer_44,New York,1,329.98,2024-12-15
+558,Headphones,Customer_48,Phoenix,1,83.36,2024-03-21
+559,Headphones,Customer_37,Houston,2,219.49,2024-02-24
+560,Laptop,Customer_47,Houston,4,808.42,2024-07-26
+561,Headphones,Customer_37,Phoenix,1,518.15,2024-01-19
+562,Webcam,Customer_38,New York,1,18.68,2024-11-09
+563,Laptop,Customer_45,Phoenix,3,723.57,2024-07-07
+564,Mouse,Customer_24,New York,2,105.14,2024-06-03
+565,Keyboard,Customer_34,Los Angeles,2,926.72,2024-01-15
+566,Mouse,Customer_26,Los Angeles,2,352.63,2024-04-17
+567,Keyboard,Customer_34,Houston,1,66.79,2024-11-15
+568,Monitor,Customer_46,Los Angeles,1,510.63,2024-04-27
+569,Headphones,Customer_46,New York,1,431.14,2024-12-26
+570,Laptop,Customer_43,Phoenix,4,871.08,2024-11-05
+571,Laptop,Customer_36,New York,3,413.65,2024-02-29
+572,Monitor,Customer_34,Chicago,4,200.55,2024-10-24
+573,Webcam,Customer_48,Houston,3,425.49,2024-07-28
+574,Headphones,Customer_14,Los Angeles,2,42.92,2024-03-25
+575,Laptop,Customer_37,Phoenix,1,911.11,2024-08-25
+576,Laptop,Customer_6,Chicago,4,180.69,2024-04-15
+577,Laptop,Customer_48,Phoenix,4,381.93,2024-10-18
+578,Keyboard,Customer_27,New York,3,417.96,2024-12-24
+579,Monitor,Customer_42,Los Angeles,3,998.61,2024-04-19
+580,Laptop,Customer_19,Phoenix,1,983.12,2024-06-11
+581,Webcam,Customer_3,Houston,3,269.86,2024-06-18
+582,Keyboard,Customer_9,Los Angeles,3,168.81,2024-03-26
+583,Mouse,Customer_21,Los Angeles,2,432.29,2024-02-09
+584,Webcam,Customer_9,New York,1,189.88,2024-03-27
+585,Headphones,Customer_37,Chicago,3,716.97,2024-10-11
+586,Headphones,Customer_13,Los Angeles,1,799.07,2024-03-27
+587,Laptop,Customer_27,Chicago,3,274.56,2024-10-19
+588,Monitor,Customer_43,Houston,2,694.35,2024-06-14
+589,Monitor,Customer_44,Chicago,2,127.26,2024-05-27
+590,Headphones,Customer_12,Phoenix,4,806.4,2024-12-06
+591,Laptop,Customer_39,Los Angeles,2,379.49,2024-03-06
+592,Mouse,Customer_21,Houston,1,420.55,2024-12-25
+593,Laptop,Customer_29,Chicago,3,882.15,2024-01-21
+594,Headphones,Customer_25,Chicago,3,47.21,2024-08-12
+595,Headphones,Customer_26,New York,2,550.65,2024-11-26
+596,Mouse,Customer_13,Los Angeles,3,790.27,2024-01-15
+597,Monitor,Customer_8,Houston,2,139.63,2024-12-10
+598,Keyboard,Customer_28,Los Angeles,1,239.2,2024-08-21
+599,Monitor,Customer_49,Chicago,2,236.55,2024-11-24
+600,Laptop,Customer_48,Los Angeles,4,727.81,2024-07-25
+601,Keyboard,Customer_47,New York,3,126.49,2024-08-23
+602,Headphones,Customer_45,Los Angeles,1,486.03,2024-04-08
+603,Webcam,Customer_16,New York,2,748.06,2024-06-19
+604,Laptop,Customer_10,Phoenix,2,712.5,2024-05-05
+605,Laptop,Customer_28,New York,2,668.45,2024-09-14
+606,Mouse,Customer_40,Chicago,2,698.67,2024-03-10
+607,Webcam,Customer_50,Los Angeles,3,973.65,2024-12-28
+608,Webcam,Customer_6,Phoenix,2,565.17,2024-06-19
+609,Mouse,Customer_6,New York,2,522.88,2024-06-21
+610,Laptop,Customer_49,Houston,2,899.53,2024-05-14
+611,Headphones,Customer_2,New York,1,506.38,2024-07-01
+612,Keyboard,Customer_1,Los Angeles,1,727.46,2024-01-08
+613,Headphones,Customer_24,Chicago,4,989.54,2024-07-27
+614,Mouse,Customer_28,Los Angeles,3,260.51,2024-01-14
+615,Headphones,Customer_12,New York,3,711.36,2024-09-10
+616,Laptop,Customer_47,Chicago,4,392.14,2024-05-19
+617,Laptop,Customer_31,Los Angeles,3,291.7,2024-06-14
+618,Headphones,Customer_43,Phoenix,4,145.47,2024-08-16
+619,Keyboard,Customer_30,Chicago,1,180.85,2024-09-22
+620,Monitor,Customer_3,Los Angeles,2,983.75,2024-07-01
+621,Headphones,Customer_39,Phoenix,2,22.99,2024-06-19
+622,Keyboard,Customer_7,Phoenix,4,515.53,2024-03-15
+623,Webcam,Customer_49,Los Angeles,2,703.23,2024-06-04
+624,Laptop,Customer_42,Phoenix,3,994.16,2024-05-25
+625,Headphones,Customer_23,Los Angeles,4,279.46,2024-02-21
+626,Mouse,Customer_49,Los Angeles,1,213.43,2024-10-27
+627,Laptop,Customer_12,Houston,3,950.04,2024-12-06
+628,Monitor,Customer_26,New York,2,711.82,2024-10-22
+629,Webcam,Customer_30,New York,3,194.48,2024-05-16
+630,Headphones,Customer_22,Chicago,2,545.05,2024-03-20
+631,Keyboard,Customer_10,Chicago,1,943.81,2024-08-21
+632,Mouse,Customer_27,Houston,1,930.01,2024-04-03
+633,Headphones,Customer_3,Los Angeles,3,92.1,2024-12-09
+634,Mouse,Customer_9,Chicago,1,855.1,2024-02-07
+635,Headphones,Customer_30,Phoenix,1,212.12,2024-07-05
+636,Keyboard,Customer_11,New York,4,182.0,2024-07-13
+637,Mouse,Customer_23,Phoenix,1,955.93,2024-12-21
+638,Headphones,Customer_38,Chicago,1,656.16,2024-01-21
+639,Headphones,Customer_40,Los Angeles,1,841.67,2024-03-28
+640,Headphones,Customer_50,New York,2,399.37,2024-07-16
+641,Laptop,Customer_31,Houston,1,688.76,2024-09-22
+642,Monitor,Customer_37,Los Angeles,4,235.45,2024-08-03
+643,Headphones,Customer_8,Chicago,1,913.1,2024-12-14
+644,Mouse,Customer_31,Chicago,2,18.04,2024-09-10
+645,Laptop,Customer_28,New York,1,472.88,2024-06-26
+646,Keyboard,Customer_16,Chicago,3,363.61,2024-11-19
+647,Headphones,Customer_20,Houston,4,315.43,2024-05-15
+648,Keyboard,Customer_22,Houston,3,312.14,2024-06-24
+649,Keyboard,Customer_8,Chicago,1,676.32,2024-02-23
+650,Laptop,Customer_44,New York,4,972.35,2024-04-02
+651,Monitor,Customer_12,New York,3,147.75,2024-08-23
+652,Headphones,Customer_22,Houston,3,205.67,2024-08-31
+653,Laptop,Customer_19,Houston,2,709.65,2024-02-28
+654,Mouse,Customer_19,Houston,2,959.72,2024-12-07
+655,Headphones,Customer_1,New York,4,566.17,2024-05-20
+656,Webcam,Customer_8,Phoenix,3,904.96,2024-11-18
+657,Laptop,Customer_1,Houston,1,82.83,2024-01-07
+658,Laptop,Customer_49,Houston,3,344.03,2024-05-16
+659,Webcam,Customer_49,Phoenix,2,692.16,2024-12-15
+660,Laptop,Customer_37,New York,4,871.43,2024-08-03
+661,Headphones,Customer_46,Los Angeles,4,714.12,2024-01-31
+662,Laptop,Customer_35,Los Angeles,4,682.79,2024-11-14
+663,Headphones,Customer_2,Los Angeles,4,383.33,2024-02-27
+664,Monitor,Customer_30,Los Angeles,3,596.71,2024-10-29
+665,Laptop,Customer_7,New York,3,691.43,2024-08-07
+666,Monitor,Customer_49,New York,3,511.33,2024-01-10
+667,Keyboard,Customer_19,Phoenix,2,164.12,2024-04-27
+668,Webcam,Customer_22,Chicago,2,850.9,2024-03-13
+669,Mouse,Customer_35,New York,3,109.72,2024-10-30
+670,Webcam,Customer_24,Phoenix,4,319.94,2024-10-29
+671,Mouse,Customer_7,Los Angeles,3,186.77,2024-11-22
+672,Laptop,Customer_13,Phoenix,2,918.17,2024-01-19
+673,Headphones,Customer_49,Chicago,2,939.5,2024-08-15
+674,Webcam,Customer_10,Chicago,2,916.84,2024-05-19
+675,Laptop,Customer_23,Phoenix,1,994.6,2024-04-01
+676,Webcam,Customer_27,Los Angeles,2,869.77,2024-01-05
+677,Monitor,Customer_41,Houston,1,873.07,2024-08-15
+678,Keyboard,Customer_18,Los Angeles,3,93.53,2024-09-05
+679,Webcam,Customer_5,Houston,1,756.01,2024-09-12
+680,Laptop,Customer_9,Houston,4,424.92,2024-11-04
+681,Mouse,Customer_34,Houston,1,546.49,2024-09-11
+682,Mouse,Customer_40,Houston,1,466.47,2024-01-17
+683,Mouse,Customer_23,Houston,1,984.93,2024-01-28
+684,Laptop,Customer_47,Phoenix,4,401.95,2024-12-01
+685,Keyboard,Customer_2,Los Angeles,3,692.45,2024-10-21
+686,Laptop,Customer_30,Phoenix,4,364.64,2024-03-28
+687,Monitor,Customer_32,Phoenix,4,863.69,2024-09-19
+688,Headphones,Customer_40,Phoenix,3,641.73,2024-12-24
+689,Keyboard,Customer_4,Los Angeles,2,187.04,2024-02-24
+690,Monitor,Customer_7,Chicago,1,97.71,2024-05-23
+691,Keyboard,Customer_7,New York,3,10.79,2024-07-03
+692,Webcam,Customer_5,Houston,3,154.36,2024-03-27
+693,Keyboard,Customer_5,New York,3,813.93,2024-04-15
+694,Monitor,Customer_37,Houston,3,323.08,2024-11-27
+695,Headphones,Customer_45,Phoenix,2,341.53,2024-04-07
+696,Laptop,Customer_45,New York,2,289.2,2024-01-05
+697,Webcam,Customer_5,Chicago,2,818.27,2024-10-30
+698,Keyboard,Customer_40,New York,4,835.16,2024-10-10
+699,Headphones,Customer_47,Phoenix,2,503.34,2024-02-27
+700,Mouse,Customer_46,Phoenix,1,332.91,2024-01-01
+701,Keyboard,Customer_15,Chicago,3,868.88,2024-05-02
+702,Keyboard,Customer_14,Houston,2,777.07,2024-06-21
+703,Monitor,Customer_3,Houston,1,619.15,2024-08-15
+704,Laptop,Customer_17,New York,2,368.65,2024-08-14
+705,Keyboard,Customer_40,Los Angeles,4,446.7,2024-06-16
+706,Monitor,Customer_5,Houston,1,909.5,2024-03-22
+707,Headphones,Customer_49,Chicago,1,12.5,2024-12-25
+708,Headphones,Customer_8,Phoenix,2,370.75,2024-04-27
+709,Headphones,Customer_11,Houston,4,286.12,2024-05-12
+710,Monitor,Customer_6,Chicago,1,305.28,2024-07-07
+711,Webcam,Customer_43,Houston,2,641.17,2024-09-06
+712,Mouse,Customer_28,Chicago,4,216.06,2024-06-27
+713,Headphones,Customer_2,Houston,1,463.91,2024-12-14
+714,Headphones,Customer_34,Houston,1,732.08,2024-07-31
+715,Headphones,Customer_19,Los Angeles,1,637.33,2024-02-24
+716,Mouse,Customer_24,Phoenix,2,948.78,2024-01-15
+717,Monitor,Customer_46,Chicago,4,362.45,2024-04-09
+718,Monitor,Customer_46,Chicago,4,245.31,2024-02-02
+719,Laptop,Customer_16,New York,2,98.62,2024-04-07
+720,Webcam,Customer_22,Phoenix,3,260.17,2024-10-18
+721,Laptop,Customer_9,New York,1,947.25,2024-02-04
+722,Headphones,Customer_27,Chicago,2,481.9,2024-07-11
+723,Monitor,Customer_10,Phoenix,3,143.91,2024-09-25
+724,Webcam,Customer_40,Chicago,4,29.27,2024-03-25
+725,Monitor,Customer_25,Houston,2,267.85,2024-05-04
+726,Webcam,Customer_14,Chicago,3,506.29,2024-03-14
+727,Keyboard,Customer_38,New York,1,829.75,2024-10-02
+728,Mouse,Customer_7,Chicago,3,197.34,2024-02-24
+729,Headphones,Customer_44,Los Angeles,2,60.48,2024-03-02
+730,Webcam,Customer_25,Chicago,3,840.38,2024-05-21
+731,Mouse,Customer_49,New York,1,923.95,2024-04-07
+732,Monitor,Customer_42,Chicago,4,162.67,2024-10-12
+733,Monitor,Customer_33,Los Angeles,3,853.75,2024-12-13
+734,Monitor,Customer_29,New York,3,908.99,2024-08-18
+735,Laptop,Customer_33,Chicago,3,524.29,2024-11-26
+736,Mouse,Customer_42,New York,1,239.8,2024-04-24
+737,Laptop,Customer_3,Los Angeles,1,134.5,2024-02-01
+738,Laptop,Customer_4,New York,3,855.28,2024-12-02
+739,Mouse,Customer_6,Houston,4,988.38,2024-03-26
+740,Headphones,Customer_29,Houston,1,956.97,2024-01-31
+741,Webcam,Customer_29,New York,3,944.04,2024-01-30
+742,Laptop,Customer_13,New York,2,146.27,2024-11-10
+743,Mouse,Customer_37,Chicago,1,521.53,2024-01-23
+744,Headphones,Customer_49,Phoenix,2,717.51,2024-08-19
+745,Laptop,Customer_8,Chicago,2,764.33,2024-07-22
+746,Monitor,Customer_35,Phoenix,2,815.62,2024-02-07
+747,Laptop,Customer_13,Los Angeles,3,991.41,2024-08-24
+748,Mouse,Customer_26,Phoenix,2,545.91,2024-05-15
+749,Mouse,Customer_18,Los Angeles,1,357.19,2024-01-25
+750,Keyboard,Customer_9,New York,4,465.35,2024-05-21
+751,Monitor,Customer_42,Los Angeles,2,566.46,2024-04-23
+752,Monitor,Customer_21,Chicago,3,963.42,2024-10-15
+753,Laptop,Customer_17,Los Angeles,4,760.56,2024-05-28
+754,Mouse,Customer_6,Phoenix,3,942.09,2024-03-03
+755,Headphones,Customer_20,Chicago,2,945.56,2024-03-20
+756,Keyboard,Customer_48,Phoenix,3,467.04,2024-01-16
+757,Mouse,Customer_23,Los Angeles,4,372.01,2024-03-26
+758,Webcam,Customer_26,New York,2,704.36,2024-08-11
+759,Monitor,Customer_45,Chicago,1,304.02,2024-07-09
+760,Headphones,Customer_7,New York,4,410.51,2024-11-23
+761,Mouse,Customer_45,Houston,4,859.01,2024-01-06
+762,Mouse,Customer_44,Phoenix,1,72.65,2024-02-16
+763,Keyboard,Customer_23,Houston,2,979.58,2024-05-27
+764,Headphones,Customer_24,Phoenix,1,263.24,2024-07-01
+765,Headphones,Customer_19,Chicago,4,119.86,2024-07-04
+766,Headphones,Customer_44,Houston,4,841.25,2024-12-12
+767,Headphones,Customer_25,New York,1,422.63,2024-03-14
+768,Headphones,Customer_10,New York,4,707.28,2024-02-21
+769,Keyboard,Customer_19,New York,4,603.32,2024-09-05
+770,Laptop,Customer_12,Houston,1,342.42,2024-09-04
+771,Monitor,Customer_35,Los Angeles,1,514.0,2024-08-19
+772,Laptop,Customer_26,Houston,1,333.13,2024-02-28
+773,Mouse,Customer_5,Phoenix,4,292.73,2024-11-04
+774,Mouse,Customer_22,Los Angeles,1,403.08,2024-03-01
+775,Keyboard,Customer_19,New York,2,744.5,2024-11-21
+776,Webcam,Customer_12,Houston,2,892.33,2024-12-01
+777,Keyboard,Customer_24,New York,2,853.75,2024-06-13
+778,Laptop,Customer_45,Houston,2,276.16,2024-11-13
+779,Keyboard,Customer_19,Phoenix,4,889.46,2024-01-10
+780,Mouse,Customer_26,Chicago,2,937.72,2024-12-07
+781,Mouse,Customer_24,Houston,3,845.98,2024-01-16
+782,Webcam,Customer_18,Chicago,1,173.15,2024-03-26
+783,Keyboard,Customer_31,New York,1,770.0,2024-06-30
+784,Monitor,Customer_22,Phoenix,4,577.89,2024-04-17
+785,Headphones,Customer_36,Los Angeles,1,415.17,2024-11-02
+786,Webcam,Customer_8,Los Angeles,4,795.26,2024-03-13
+787,Keyboard,Customer_7,Los Angeles,1,224.08,2024-10-09
+788,Monitor,Customer_14,New York,2,539.42,2024-03-08
+789,Keyboard,Customer_12,New York,1,618.85,2024-11-01
+790,Monitor,Customer_14,Chicago,2,506.79,2024-01-11
+791,Monitor,Customer_42,Houston,3,545.75,2024-12-31
+792,Monitor,Customer_27,New York,1,521.71,2024-09-12
+793,Mouse,Customer_8,Los Angeles,1,123.54,2024-06-25
+794,Keyboard,Customer_15,New York,1,304.68,2024-09-03
+795,Monitor,Customer_30,Los Angeles,1,307.51,2024-01-12
+796,Mouse,Customer_48,Chicago,3,45.4,2024-06-11
+797,Keyboard,Customer_49,Phoenix,4,370.82,2024-11-13
+798,Headphones,Customer_4,Houston,4,741.48,2024-06-15
+799,Headphones,Customer_20,Houston,4,893.46,2024-10-04
+800,Laptop,Customer_34,Houston,3,116.89,2024-05-27
+801,Mouse,Customer_31,Houston,4,903.44,2024-08-13
+802,Webcam,Customer_35,Phoenix,2,628.96,2024-09-23
+803,Keyboard,Customer_14,New York,3,545.02,2024-10-05
+804,Monitor,Customer_14,Chicago,4,539.03,2024-09-21
+805,Monitor,Customer_45,Chicago,1,103.87,2024-10-01
+806,Monitor,Customer_50,Phoenix,1,228.44,2024-03-07
+807,Headphones,Customer_33,Los Angeles,3,236.44,2024-07-06
+808,Keyboard,Customer_25,Phoenix,1,723.6,2024-03-12
+809,Keyboard,Customer_38,Phoenix,3,549.38,2024-01-12
+810,Mouse,Customer_17,Chicago,4,482.78,2024-04-07
+811,Webcam,Customer_32,New York,4,159.54,2024-11-15
+812,Laptop,Customer_12,Phoenix,4,195.59,2024-02-28
+813,Webcam,Customer_36,Houston,3,246.68,2024-10-08
+814,Webcam,Customer_19,Los Angeles,1,185.22,2024-02-12
+815,Headphones,Customer_43,Los Angeles,1,720.96,2024-08-02
+816,Headphones,Customer_33,Houston,3,273.41,2024-07-22
+817,Keyboard,Customer_46,Chicago,3,365.23,2024-10-08
+818,Laptop,Customer_34,Chicago,4,861.59,2024-04-08
+819,Mouse,Customer_10,Los Angeles,1,408.02,2024-06-13
+820,Keyboard,Customer_34,Chicago,2,34.34,2024-08-31
+821,Laptop,Customer_31,Los Angeles,1,352.82,2024-09-05
+822,Laptop,Customer_40,Phoenix,4,546.04,2024-04-06
+823,Monitor,Customer_36,Chicago,4,836.46,2024-01-05
+824,Headphones,Customer_21,Phoenix,2,628.83,2024-01-27
+825,Mouse,Customer_23,Chicago,1,575.46,2024-09-02
+826,Mouse,Customer_11,Chicago,2,39.0,2024-10-24
+827,Webcam,Customer_43,Los Angeles,2,544.89,2024-08-01
+828,Keyboard,Customer_3,Phoenix,4,295.93,2024-07-10
+829,Laptop,Customer_26,Chicago,4,573.03,2024-06-04
+830,Mouse,Customer_47,New York,3,276.95,2024-02-19
+831,Keyboard,Customer_13,Los Angeles,1,563.7,2024-10-06
+832,Headphones,Customer_30,Chicago,2,505.16,2024-03-18
+833,Laptop,Customer_22,New York,1,849.26,2024-07-03
+834,Headphones,Customer_38,Los Angeles,3,123.73,2024-10-31
+835,Monitor,Customer_34,Chicago,2,925.69,2024-09-01
+836,Monitor,Customer_7,New York,3,725.72,2024-04-05
+837,Mouse,Customer_35,Chicago,1,829.12,2024-09-15
+838,Laptop,Customer_30,New York,3,849.86,2024-12-20
+839,Webcam,Customer_32,Houston,2,495.85,2024-03-07
+840,Keyboard,Customer_33,Los Angeles,3,188.83,2024-03-23
+841,Monitor,Customer_27,Los Angeles,2,392.02,2024-03-15
+842,Headphones,Customer_20,Houston,4,626.04,2024-12-31
+843,Headphones,Customer_8,New York,3,853.96,2024-12-22
+844,Headphones,Customer_50,Phoenix,4,97.4,2024-12-29
+845,Keyboard,Customer_19,Chicago,3,393.22,2024-05-13
+846,Laptop,Customer_34,New York,2,967.54,2024-02-18
+847,Monitor,Customer_16,Phoenix,3,360.96,2024-03-18
+848,Monitor,Customer_14,Los Angeles,1,242.88,2024-12-18
+849,Keyboard,Customer_42,Chicago,4,642.57,2024-04-24
+850,Mouse,Customer_5,Los Angeles,3,120.92,2024-01-31
+851,Laptop,Customer_23,Los Angeles,4,604.0,2024-08-04
+852,Laptop,Customer_32,Houston,4,71.21,2024-05-28
+853,Monitor,Customer_9,Los Angeles,3,537.06,2024-07-28
+854,Laptop,Customer_16,Los Angeles,3,669.66,2024-01-05
+855,Keyboard,Customer_9,Chicago,3,737.85,2024-07-07
+856,Headphones,Customer_35,New York,3,275.95,2024-05-07
+857,Headphones,Customer_1,New York,3,310.17,2024-01-07
+858,Mouse,Customer_31,Los Angeles,1,216.33,2024-05-12
+859,Headphones,Customer_38,Chicago,3,438.67,2024-01-18
+860,Monitor,Customer_39,Los Angeles,4,344.91,2024-03-24
+861,Laptop,Customer_37,New York,4,415.8,2024-03-26
+862,Keyboard,Customer_10,New York,1,712.0,2024-05-05
+863,Monitor,Customer_46,Chicago,3,745.35,2024-06-21
+864,Mouse,Customer_26,Chicago,2,602.4,2024-10-25
+865,Keyboard,Customer_35,New York,4,262.84,2024-09-23
+866,Keyboard,Customer_6,Phoenix,4,367.63,2024-06-12
+867,Headphones,Customer_30,Los Angeles,4,605.9,2024-02-11
+868,Headphones,Customer_8,Los Angeles,1,348.18,2024-10-24
+869,Headphones,Customer_39,Houston,3,872.84,2024-09-21
+870,Monitor,Customer_32,Phoenix,1,554.06,2024-04-30
+871,Webcam,Customer_13,Phoenix,2,949.3,2024-09-18
+872,Mouse,Customer_47,Phoenix,1,933.2,2024-09-19
+873,Webcam,Customer_19,New York,4,870.93,2024-06-27
+874,Monitor,Customer_35,Los Angeles,2,722.55,2024-06-14
+875,Monitor,Customer_42,New York,2,458.18,2024-05-21
+876,Monitor,Customer_15,Los Angeles,4,360.44,2024-01-13
+877,Webcam,Customer_42,Houston,2,229.85,2024-04-05
+878,Keyboard,Customer_41,Chicago,4,370.63,2024-05-09
+879,Webcam,Customer_22,New York,1,218.78,2024-09-26
+880,Mouse,Customer_26,New York,4,147.52,2024-06-23
+881,Mouse,Customer_23,Phoenix,3,992.9,2024-01-12
+882,Webcam,Customer_41,Chicago,1,906.86,2024-03-11
+883,Laptop,Customer_5,Los Angeles,2,854.3,2024-11-28
+884,Monitor,Customer_16,Phoenix,1,202.08,2024-02-07
+885,Webcam,Customer_29,Chicago,4,810.87,2024-07-08
+886,Mouse,Customer_42,Los Angeles,1,674.5,2024-01-30
+887,Keyboard,Customer_10,Houston,2,251.21,2024-08-02
+888,Keyboard,Customer_38,New York,3,785.05,2024-06-20
+889,Keyboard,Customer_37,Houston,4,369.07,2024-10-08
+890,Headphones,Customer_37,Chicago,3,738.42,2024-06-08
+891,Laptop,Customer_47,New York,4,162.77,2024-09-08
+892,Webcam,Customer_46,Houston,4,409.88,2024-03-25
+893,Mouse,Customer_24,Los Angeles,4,664.79,2024-05-30
+894,Webcam,Customer_39,New York,1,163.08,2024-02-06
+895,Mouse,Customer_13,New York,1,892.35,2024-11-10
+896,Mouse,Customer_12,Los Angeles,1,203.87,2024-09-30
+897,Headphones,Customer_23,Chicago,1,471.4,2024-12-12
+898,Keyboard,Customer_4,Los Angeles,4,342.12,2024-06-17
+899,Webcam,Customer_33,Chicago,1,474.09,2024-02-18
+900,Headphones,Customer_21,New York,1,609.92,2024-12-12
+901,Keyboard,Customer_44,Chicago,3,388.33,2024-10-30
+902,Headphones,Customer_30,New York,3,380.88,2024-11-19
+903,Keyboard,Customer_20,New York,2,359.37,2024-04-16
+904,Webcam,Customer_26,New York,2,502.77,2024-10-21
+905,Laptop,Customer_42,Phoenix,2,658.79,2024-04-21
+906,Keyboard,Customer_31,Chicago,1,680.75,2024-03-04
+907,Headphones,Customer_39,Houston,3,19.03,2024-03-07
+908,Keyboard,Customer_24,New York,4,138.29,2024-09-10
+909,Keyboard,Customer_29,Houston,1,383.41,2024-06-17
+910,Mouse,Customer_1,Phoenix,1,466.48,2024-09-25
+911,Headphones,Customer_39,Phoenix,3,978.47,2024-03-22
+912,Headphones,Customer_48,Los Angeles,2,579.91,2024-01-07
+913,Webcam,Customer_36,Phoenix,4,845.4,2024-06-10
+914,Headphones,Customer_21,Houston,2,455.08,2024-07-08
+915,Webcam,Customer_6,New York,4,816.43,2024-12-15
+916,Webcam,Customer_37,Houston,4,385.52,2024-02-22
+917,Webcam,Customer_39,Chicago,1,468.36,2024-05-13
+918,Mouse,Customer_50,Chicago,1,860.41,2024-12-03
+919,Mouse,Customer_14,Los Angeles,2,399.01,2024-08-24
+920,Mouse,Customer_6,New York,1,707.42,2024-06-15
+921,Headphones,Customer_41,Houston,3,129.03,2024-07-13
+922,Monitor,Customer_21,Chicago,3,519.84,2024-05-04
+923,Monitor,Customer_2,New York,2,665.63,2024-05-10
+924,Headphones,Customer_11,Los Angeles,2,105.58,2024-07-16
+925,Headphones,Customer_9,Houston,2,976.3,2024-10-28
+926,Keyboard,Customer_49,Houston,3,788.6,2024-11-29
+927,Laptop,Customer_21,Phoenix,2,220.88,2024-08-16
+928,Keyboard,Customer_1,Houston,4,823.06,2024-11-09
+929,Mouse,Customer_22,Chicago,2,740.84,2024-01-13
+930,Webcam,Customer_18,Los Angeles,1,178.08,2024-07-03
+931,Headphones,Customer_5,Los Angeles,3,442.38,2024-05-17
+932,Laptop,Customer_5,Chicago,4,954.98,2024-01-03
+933,Headphones,Customer_21,New York,1,751.54,2024-03-29
+934,Mouse,Customer_50,Houston,4,278.84,2024-06-28
+935,Laptop,Customer_49,Houston,2,899.83,2024-03-07
+936,Mouse,Customer_5,Houston,3,610.29,2024-01-11
+937,Keyboard,Customer_11,Phoenix,1,95.82,2024-06-11
+938,Laptop,Customer_49,Chicago,3,62.31,2024-09-30
+939,Monitor,Customer_8,Phoenix,2,50.16,2024-03-30
+940,Keyboard,Customer_17,Los Angeles,1,480.87,2024-07-04
+941,Mouse,Customer_18,New York,3,240.61,2024-09-26
+942,Headphones,Customer_14,Houston,4,706.26,2024-04-29
+943,Mouse,Customer_28,Los Angeles,2,112.91,2024-09-17
+944,Monitor,Customer_47,Houston,3,97.12,2024-10-14
+945,Keyboard,Customer_37,New York,2,53.51,2024-12-05
+946,Mouse,Customer_6,New York,4,937.33,2024-12-14
+947,Webcam,Customer_39,Houston,2,161.83,2024-08-18
+948,Laptop,Customer_40,Houston,1,178.73,2024-04-15
+949,Keyboard,Customer_1,Chicago,3,436.98,2024-02-02
+950,Headphones,Customer_5,Houston,2,854.54,2024-04-07
+951,Monitor,Customer_34,Phoenix,3,917.93,2024-06-12
+952,Keyboard,Customer_17,Houston,4,868.81,2024-12-04
+953,Laptop,Customer_33,Los Angeles,4,32.05,2024-11-21
+954,Monitor,Customer_9,Chicago,4,85.92,2024-04-15
+955,Laptop,Customer_36,Los Angeles,1,185.06,2024-05-29
+956,Keyboard,Customer_24,New York,3,925.9,2024-10-26
+957,Monitor,Customer_17,Chicago,4,208.04,2024-02-06
+958,Webcam,Customer_39,Houston,4,59.72,2024-10-27
+959,Webcam,Customer_34,Los Angeles,2,549.61,2024-08-08
+960,Mouse,Customer_46,Chicago,4,80.94,2024-05-03
+961,Keyboard,Customer_49,Los Angeles,4,338.78,2024-11-11
+962,Mouse,Customer_22,Los Angeles,3,246.38,2024-02-06
+963,Keyboard,Customer_49,Phoenix,3,796.14,2024-03-11
+964,Monitor,Customer_30,Houston,4,272.89,2024-11-13
+965,Mouse,Customer_11,Phoenix,1,931.34,2024-03-14
+966,Monitor,Customer_44,Chicago,2,186.36,2024-10-06
+967,Laptop,Customer_43,Los Angeles,4,814.8,2024-10-07
+968,Webcam,Customer_21,Chicago,4,862.3,2024-07-09
+969,Webcam,Customer_22,Phoenix,3,532.91,2024-04-12
+970,Headphones,Customer_35,New York,1,541.37,2024-04-15
+971,Mouse,Customer_7,New York,3,911.25,2024-05-19
+972,Laptop,Customer_18,Los Angeles,2,641.28,2024-11-19
+973,Laptop,Customer_11,Chicago,3,173.08,2024-05-29
+974,Mouse,Customer_14,Chicago,3,533.01,2024-09-14
+975,Headphones,Customer_37,New York,1,853.09,2024-06-30
+976,Headphones,Customer_44,Phoenix,4,460.79,2024-09-24
+977,Laptop,Customer_30,Houston,3,478.07,2024-08-15
+978,Keyboard,Customer_35,Los Angeles,3,197.52,2024-10-08
+979,Headphones,Customer_33,Chicago,2,834.29,2024-06-24
+980,Headphones,Customer_19,Chicago,1,998.48,2024-03-14
+981,Mouse,Customer_3,New York,1,467.7,2024-12-30
+982,Webcam,Customer_22,Phoenix,1,428.06,2024-12-16
+983,Mouse,Customer_49,New York,2,587.84,2024-10-23
+984,Headphones,Customer_8,Los Angeles,1,752.09,2024-01-16
+985,Webcam,Customer_14,New York,4,953.3,2024-03-22
+986,Keyboard,Customer_21,Los Angeles,1,823.2,2024-06-29
+987,Keyboard,Customer_23,Chicago,2,841.4,2024-03-01
+988,Laptop,Customer_24,Chicago,1,535.11,2024-05-03
+989,Webcam,Customer_44,Chicago,1,626.28,2024-08-28
+990,Keyboard,Customer_30,Los Angeles,4,201.97,2024-12-03
+991,Laptop,Customer_31,Chicago,3,315.76,2024-06-01
+992,Laptop,Customer_14,New York,3,336.37,2024-03-26
+993,Mouse,Customer_34,Phoenix,4,179.44,2024-11-08
+994,Keyboard,Customer_19,Phoenix,1,462.68,2024-03-06
+995,Keyboard,Customer_16,Los Angeles,2,843.68,2024-12-02
+996,Keyboard,Customer_33,Phoenix,4,955.78,2024-05-03
+997,Keyboard,Customer_1,Phoenix,3,44.71,2024-12-20
+998,Headphones,Customer_16,New York,4,644.22,2024-04-05
+999,Laptop,Customer_46,New York,1,304.27,2024-03-01
+1000,Keyboard,Customer_25,Chicago,3,479.44,2024-11-06

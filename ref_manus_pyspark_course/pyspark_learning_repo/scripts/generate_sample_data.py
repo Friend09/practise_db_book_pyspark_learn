@@ -2,12 +2,13 @@ import pandas as pd
 import numpy as np
 import os
 
-def generate_sales_data(num_records=1000, output_dir="../data/raw"):
+def generate_sales_data(num_records=1000, output_dir="data/raw"):
     """
     Generates synthetic sales data and saves it as a CSV file.
     """
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
+    print(f"current path is: {os.getcwd()}")
 
     products = ["Laptop", "Mouse", "Keyboard", "Monitor", "Webcam", "Headphones"]
     customers = [f"Customer_{i}" for i in range(1, 51)]
@@ -30,5 +31,3 @@ def generate_sales_data(num_records=1000, output_dir="../data/raw"):
 
 if __name__ == "__main__":
     generate_sales_data()
-
-
