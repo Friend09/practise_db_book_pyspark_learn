@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 
-def generate_sales_data(num_records=1000, output_dir="../data/raw"):
+def generate_sales_data(num_records=1000, output_dir="data/raw"):
     """
     Generates synthetic sales data and saves it as a CSV file.
     """
@@ -30,5 +30,3 @@ def generate_sales_data(num_records=1000, output_dir="../data/raw"):
 
 if __name__ == "__main__":
     generate_sales_data()
-
-
