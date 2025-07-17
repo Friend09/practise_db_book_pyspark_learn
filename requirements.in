@@ -4,3 +4,4 @@ python-dotenv
 pyspark
 pandas
 findspark
+pyarrow

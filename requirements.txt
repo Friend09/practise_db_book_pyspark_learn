@@ -69,6 +69,8 @@ pure-eval==0.2.3
     # via stack-data
 py4j==0.10.9.9
     # via pyspark
+pyarrow==20.0.0
+    # via -r requirements.in
 pygments==2.19.2
     # via
     #   ipython
