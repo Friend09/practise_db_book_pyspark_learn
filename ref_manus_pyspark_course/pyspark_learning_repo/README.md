@@ -34,9 +34,11 @@ This repository contains a complete implementation of the Medallion Architecture
 ## How to Use
 
 ### Option 1: Run the Complete Notebook
+
 Open and run `notebooks/pyspark_medallion_architecture_guide.ipynb` - it contains all the working code and will execute the entire pipeline.
 
 ### Option 2: Run Scripts Individually
+
 From the project root directory:
 
 ```bash
@@ -53,18 +55,21 @@ python scripts/gold_aggregation.py
 ## What Each Layer Does
 
 ### Bronze Layer
+
 - Reads raw CSV data
 - Saves as Parquet format (preserving original structure)
 - No transformations applied
 
 ### Silver Layer
+
 - Reads from Bronze layer
-- Adds calculated columns (total_price = quantity * price)
+- Adds calculated columns (total_price = quantity \* price)
 - Adds processing timestamp
 - Converts transaction_date to proper date format
 - Provides data quality and statistics
 
 ### Gold Layer
+
 - Reads from Silver layer
 - Aggregates data by product and city
 - Calculates metrics like total revenue, transaction counts, etc.
@@ -81,6 +86,7 @@ python scripts/gold_aggregation.py
 ## Sample Queries Included
 
 The notebook includes examples of:
+
 - Filtering data by various criteria
 - Grouping and aggregation operations
 - Spark SQL queries on the Gold layer
